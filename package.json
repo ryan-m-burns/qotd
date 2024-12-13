@@ -1,5 +1,6 @@
 {
   "name": "a02-qotd",
+  "author": "Ryan Burns",
   "private": true,
   "version": "0.0.0",
   "type": "module",
